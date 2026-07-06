@@ -1,4 +1,4 @@
-# Hi, I'm Moris Zerach 👋 — Application Security Engineer
+# Hi, I'm Moris Zerach 👋 - Application Security Engineer
 
 > Aspiring **AppSec / Security Engineer**. I build tools that find vulnerabilities, environments that teach them, and pipelines that stop them from shipping.
 
